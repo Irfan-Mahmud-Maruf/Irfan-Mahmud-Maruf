@@ -9,11 +9,9 @@
     <a href="https://www.instagram.com/irfan_mahmud_maruf">Instagram</a>
 </p>
 <hr/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Irfan-Mahmud-Maruf&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!--
-**Irfan-Mahmud-Maruf/Irfan-Mahmud-Maruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Irfan-Mahmud-Maruf&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]
+(https://git.io/streak-stats)
+<hr/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -23,4 +21,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+**Irfan-Mahmud-Maruf/Irfan-Mahmud-Maruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 -->
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Irfan-Mahmud-Maruf&show_icons=true&theme=gotham%22%20alt=%22abhisheknaiidu" />
+
+</p>
