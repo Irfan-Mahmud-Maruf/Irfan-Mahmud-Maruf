@@ -14,13 +14,11 @@
 
 </p>
 
-<hr/>
-
 - 🔭 I’m currently working on my own projects.
 - 🌱 I’m currently learning typescript.
-- 👯 I’m looking to collaborate on .
-- 💬 Ask me about .
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on new projects.
+- 💬 Ask me about any web development topic.
+- ⚡ Fun fact: I have soft skill in Motion Graphics.
 <!--
 **Irfan-Mahmud-Maruf/Irfan-Mahmud-Maruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
