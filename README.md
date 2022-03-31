@@ -23,7 +23,9 @@
 
 <hr/>
 #### Profile Visits
-<p> ![visitors](https://visitor-badge.glitch.me/badge?page_id=muhib160.muhib160)<p>
+<p><p>
+    
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-Mahmud-Marud" /></p>
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Irfan-Mahmud-Maruf&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
