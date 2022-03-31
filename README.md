@@ -6,23 +6,23 @@
     I'm a Front-end Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
 
 <p/>
-<p style="text-align: center">
-    <a href="https://www.linkedin.com/in/irfanmahmudmaruf">Linked in</a> -
-    <a href="https://twitter.com/Irfanmamudmaruf">Twitter</a> -
-    <a href="https://www.facebook.com/irfanmahmudmaruf/">Facebook</a> -
-    <a href="https://www.instagram.com/irfan_mahmud_maruf">Instagram</a>
-</p>
-<hr/>
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Irfan-Mahmud-Maruf&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</p>
 
 - 🔭 I’m currently working on my own projects.
 - 🌱 I’m currently learning typescript.
 - 👯 I’m looking to collaborate on new projects.
 - 💬 Ask me about any web development topic.
 - ⚡ Fun fact: I have soft skill in Motion Graphics.
+
+#### Connect with me:
+
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCw7HsJmGF6Du7Lo3QnddvnA) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/muhib160) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhib160/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhib_160)
+<hr/>
+<p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Irfan-Mahmud-Maruf&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</p>
+
+
 <!--
 **Irfan-Mahmud-Maruf/Irfan-Mahmud-Maruf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
