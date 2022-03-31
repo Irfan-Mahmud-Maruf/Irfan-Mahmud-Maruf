@@ -23,7 +23,7 @@
 
 <hr/>
 #### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=muhib160.muhib160)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Irfan-Mahmud-Maruf&left_color=green&right_color=red)
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Irfan-Mahmud-Maruf&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
