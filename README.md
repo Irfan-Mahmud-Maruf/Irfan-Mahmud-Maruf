@@ -2,6 +2,10 @@
 <hr/>
 <h2 style="text-align: center; font-weight: 700">Irfan Mahmud Maruf</h2>
 <h4 style="text-align: center">MERN Stack Developer</h4>
+<p>
+    I'm a Front-end Web Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
+
+<p/>
 <p style="text-align: center">
     <a href="https://www.linkedin.com/in/irfanmahmudmaruf">Linked in</a> -
     <a href="https://twitter.com/Irfanmamudmaruf">Twitter</a> -
