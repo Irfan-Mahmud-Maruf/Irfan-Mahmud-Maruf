@@ -25,7 +25,7 @@
 #### Profile Visits
 <p><p>
     
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-Mahmud-Marud" /></p>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-Mahmud-Maruf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Irfan-Mahmud-Maruf&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
