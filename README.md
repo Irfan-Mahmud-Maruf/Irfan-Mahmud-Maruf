@@ -7,15 +7,15 @@
 
 <p/>
 
-- 🔭 I’m currently working on my own projects.
-- 🌱 I’m currently learning typescript.
+- 🔭 I’m currently working at Scrrum Labs.
+- 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on new projects.
 - 💬 Ask me about any web development topic.
 - ⚡ Fun fact: I have soft skill in Motion Graphics.
 
 #### Connect with me:
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maruf.irfanmahmud@gmail.com)
 
  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/muhib160) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhib160/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhib_160)
 <hr/>
