@@ -7,8 +7,8 @@
 
 <p/>
 
-- 🔭 I’m currently working at Scrrum Labs.
-- 🌱 I’m currently learning Angular.
+- 🔭 I’m looking for job.
+- 🌱 I’m currently learning react native.
 - 👯 I’m looking to collaborate on new projects.
 - 💬 Ask me about any web development topic.
 - ⚡ Fun fact: I have soft skill in Motion Graphics.
